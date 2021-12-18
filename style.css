@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+    padding: 0%;
+}
+header{
+    color:whitesmoke;
+    background-color: cadetblue;
+    text-align:center;
+    height: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer{
+    background-color: cadetblue;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    text-align: center;
+}
